@@ -2,10 +2,8 @@
 
 ## Intro
 
-Bienvenido al Proyecto Jerarquía, creado por Óscar H Caballero, ingeniero de software en PARENTESYS )(
-
-usando Patrones de Software, Principios SOLID y Programación Orientada a Objetos,
-con el lenguage de programación PHP, con fines didácticos.
+Bienvenido al Proyecto Jerarquía, creado con fines didácticos por Óscar H Caballero, ingeniero de software en PARENTESYS. 
+Usaremos Patrones de Software, Principios SOLID y Programación Orientada a Objetos, con el lenguaje de programación PHP.
 
 
 ## Descripción
